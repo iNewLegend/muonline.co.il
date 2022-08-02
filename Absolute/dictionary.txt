@@ -1,0 +1,14 @@
+[ Files Meaning ]
+
+T ClassName.cpp
+	a class with only one instance g_ClassName
+	~ important add singleton to those
+
+C ClassName.cpp
+	a class with more then one instance 
+
+
+* StaticClass OR 
+ define.h like header OR
+ Absolute.cpp like OR 
+ stdafx.cpp like

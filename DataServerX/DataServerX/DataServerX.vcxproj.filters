@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2b7ce28f-c8da-41ca-87e6-50a7efa8a767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{8a58fae9-45cb-4f00-ba49-04b31d72792b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{ac9f6cad-03a3-4050-adca-738210055226}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Log">
+      <UniqueIdentifier>{0be8b68b-58b7-4f75-83ce-743ae9bbe6e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Global">
+      <UniqueIdentifier>{97617315-5346-4a74-ba1b-eb0f8cb84ee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IOCP">
+      <UniqueIdentifier>{5a60c13a-3542-480d-8101-f2471c6fd424}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event">
+      <UniqueIdentifier>{e5dd1e78-e162-4ea5-99cf-f9ef67b95fdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{ceaa9931-f558-4d55-ae42-ae38981e4e68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IOCPHandler">
+      <UniqueIdentifier>{84db1822-c7f8-47b0-8b9b-65c88dc0d5ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protocol">
+      <UniqueIdentifier>{065ecf14-d00f-49da-99de-efda75f8ad18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Database">
+      <UniqueIdentifier>{94bc0bf1-bcf7-4d0b-989c-4c79f9da6796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{04b675ed-5f8e-41e2-8448-4205ed33570e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GConfig.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="GMain.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="GLog.h">
+      <Filter>Log</Filter>
+    </ClInclude>
+    <ClInclude Include="TApp.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="TColor.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\Connection.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\ConnectionInformation.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\ConnectionManager.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\Export.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\ExternalLibraries.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\IocpContext.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\IocpException.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\IocpHandler.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\IocpServer.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\SendQueue.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\SharedIocpData.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\Utils.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCP\WorkerThread.h">
+      <Filter>IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="SConfusedEvent.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="SFastWrote.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="SRunEvent.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="SEventManager.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol.h">
+      <Filter>Protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="TDataBase.h">
+      <Filter>Database</Filter>
+    </ClInclude>
+    <ClInclude Include="SExerciseEvent.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="VoteSystem.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="GMsgDisable.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="SLotteryEvent.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="SGoldenEvent.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="GIOCPHandler.h">
+      <Filter>IOCPHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="SAutoMessageManager.h">
+      <Filter>System</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GConfig.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="GMain.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="EnteryPoint.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="GLog.cpp">
+      <Filter>Log</Filter>
+    </ClCompile>
+    <ClCompile Include="TApp.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Global</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\Connection.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\ConnectionManager.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\IocpContext.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\IocpHandler.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\IocpServer.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\SendQueue.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\Utils.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\WorkerThread.cpp">
+      <Filter>IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="SConfusedEvent.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="SFastWrote.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="SRunEvent.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="SEventManager.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocol.cpp">
+      <Filter>Protocol</Filter>
+    </ClCompile>
+    <ClCompile Include="TDataBase.cpp">
+      <Filter>Database</Filter>
+    </ClCompile>
+    <ClCompile Include="SExerciseEvent.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="VoteSystem.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="GMsgDisable.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="SLotteryEvent.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="SGoldenEvent.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="GIOCPHandler.cpp">
+      <Filter>IOCPHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="SAutoMessageManager.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DataServerX.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="DataServerX.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

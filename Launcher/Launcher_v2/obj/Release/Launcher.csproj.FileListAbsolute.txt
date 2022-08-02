@@ -1,0 +1,10 @@
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\bin\Release\Launcher.exe
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\bin\Release\Launcher.pdb
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\bin\Release\Ionic.Zip.dll
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher.MainWindow.resources
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher.OptionsForm.resources
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher.csproj.GenerateResource.Cache
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher.exe
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher.pdb

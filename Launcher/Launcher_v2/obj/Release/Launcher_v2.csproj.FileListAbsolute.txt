@@ -1,0 +1,30 @@
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\bin\Release\Launcher_v2.exe
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\bin\Release\Launcher_v2.pdb
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\bin\Release\Ionic.Zip.dll
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher_v2.MainWindow.resources
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher_v2.OptionsForm.resources
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher_v2.Properties.Resources.resources
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher_v2.csproj.GenerateResource.Cache
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher_v2.exe
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher_v2.pdb
+C:\Users\Roye\Desktop\Launcher\Launcher_v2\obj\Release\Launcher_v2.csprojResolveAssemblyReference.cache
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.exe
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.pdb
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\bin\Release\Launcher_v2.exe
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\bin\Release\Launcher_v2.pdb
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\bin\Release\Ionic.Zip.dll
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.csprojResolveAssemblyReference.cache
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.MainWindow.resources
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.OptionsForm.resources
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.Properties.Resources.resources
+C:\Users\Roye\Desktop\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.csproj.GenerateResource.Cache
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.exe
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.pdb
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\bin\Release\Launcher_v2.exe
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\bin\Release\Launcher_v2.pdb
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\bin\Release\Ionic.Zip.dll
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.csprojResolveAssemblyReference.cache
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.MainWindow.resources
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.OptionsForm.resources
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.Properties.Resources.resources
+D:\MuFiles\Mu Files\Launcher\Launcher_v2\obj\Release\Launcher_v2.csproj.GenerateResource.Cache

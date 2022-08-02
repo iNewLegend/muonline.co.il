@@ -1,0 +1,8 @@
+C:\Users\Roye\Desktop\Launcher\launcher_updater\bin\Debug\launcher_updater.exe.exe
+C:\Users\Roye\Desktop\Launcher\launcher_updater\bin\Debug\launcher_updater.exe.pdb
+C:\Users\Roye\Desktop\Launcher\launcher_updater\bin\Debug\Ionic.Zip.dll
+C:\Users\Roye\Desktop\Launcher\launcher_updater\obj\Debug\launcher_updater.csprojResolveAssemblyReference.cache
+C:\Users\Roye\Desktop\Launcher\launcher_updater\obj\Debug\launcher_updater.exe.Properties.Resources.resources
+C:\Users\Roye\Desktop\Launcher\launcher_updater\obj\Debug\launcher_updater.csproj.GenerateResource.Cache
+C:\Users\Roye\Desktop\Launcher\launcher_updater\obj\Debug\launcher_updater.exe.exe
+C:\Users\Roye\Desktop\Launcher\launcher_updater\obj\Debug\launcher_updater.exe.pdb

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VIP_GS", "GameServer_2017\GameServer_2017.vcxproj", "{7898D792-19C6-4706-A006-77EEDCB09B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		99.60 DEBUG|Win32 = 99.60 DEBUG|Win32
+		99.60 DEBUG|x64 = 99.60 DEBUG|x64
+		99.60 DEBUG|x86 = 99.60 DEBUG|x86
+		99.60 Release|Win32 = 99.60 Release|Win32
+		99.60 Release|x64 = 99.60 Release|x64
+		99.60 Release|x86 = 99.60 Release|x86
+		99.62 Release|Win32 = 99.62 Release|Win32
+		99.62 Release|x64 = 99.62 Release|x64
+		99.62 Release|x86 = 99.62 Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 DEBUG|Win32.ActiveCfg = 99.60 REELASE|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 DEBUG|Win32.Build.0 = 99.60 REELASE|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 DEBUG|x64.ActiveCfg = 99.60 DEBUG|x64
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 DEBUG|x64.Build.0 = 99.60 DEBUG|x64
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 DEBUG|x86.ActiveCfg = 99.60 DEBUG|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 DEBUG|x86.Build.0 = 99.60 DEBUG|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 Release|Win32.ActiveCfg = 99.60 REELASE|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 Release|Win32.Build.0 = 99.60 REELASE|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 Release|x64.ActiveCfg = 99.60 REELASE|x64
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 Release|x64.Build.0 = 99.60 REELASE|x64
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 Release|x86.ActiveCfg = 99.60 REELASE|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.60 Release|x86.Build.0 = 99.60 REELASE|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.62 Release|Win32.ActiveCfg = 99.62 Release|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.62 Release|Win32.Build.0 = 99.62 Release|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.62 Release|x64.ActiveCfg = 99.62 Release|x64
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.62 Release|x64.Build.0 = 99.62 Release|x64
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.62 Release|x86.ActiveCfg = 99.62 Release|Win32
+		{7898D792-19C6-4706-A006-77EEDCB09B54}.99.62 Release|x86.Build.0 = 99.62 Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB6AF15-D7EE-4783-9667-653FB7CE37E8}
+	EndGlobalSection
+EndGlobal

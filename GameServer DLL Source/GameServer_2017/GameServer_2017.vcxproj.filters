@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Tools">
+      <UniqueIdentifier>{b4bf7036-5467-46af-bba4-9b59a46500ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{0d0a1046-f5f5-4404-a6e7-895e2006f55f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{8b374762-b82b-43a2-8b56-08d60491b47e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event">
+      <UniqueIdentifier>{39722086-dea6-48df-bc46-0d9116fccb1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DSX">
+      <UniqueIdentifier>{7a4b3e43-ff47-4424-a577-d6e517231694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Global">
+      <UniqueIdentifier>{57461c8e-da41-4e4f-9b6f-5dc60cde808f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools\Connection">
+      <UniqueIdentifier>{23ecb38a-1367-4699-93bd-0e3b75ccbaa8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MessagesDefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OffTrade.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadScript.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedDragon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TChatVote.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TCore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TDataServerSocket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TGameServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TNotice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TPacket.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TLogToFile.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TBotSystem.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="IocpServer.h">
+      <Filter>Tools\Connection</Filter>
+    </ClInclude>
+    <ClInclude Include="LibConn.h">
+      <Filter>Tools\Connection</Filter>
+    </ClInclude>
+    <ClInclude Include="DSXProtocol.h">
+      <Filter>DSX</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TIniFile.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TTimer.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TMessages.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TEncoding.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TShop.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="TColors.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="TSetup.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventItemManager.h">
+      <Filter>Event</Filter>
+    </ClInclude>
+    <ClInclude Include="VIPSystem.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Chat.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TMarrySystem.h">
+      <Filter>System</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TCore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TLogToFile.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TPacket.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TBotSystem.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="VIPSystem.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="TTimer.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TNotice.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TMessages.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="RedDragon.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="EventItemManager.cpp">
+      <Filter>Event</Filter>
+    </ClCompile>
+    <ClCompile Include="TMarrySystem.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="TEncoding.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TSetup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DSXProtocol.cpp">
+      <Filter>DSX</Filter>
+    </ClCompile>
+    <ClCompile Include="OffTrade.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="TShop.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Global</Filter>
+    </ClCompile>
+    <ClCompile Include="GameServer_2017.cpp">
+      <Filter>Global</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Global</Filter>
+    </ClCompile>
+    <ClCompile Include="TDataServerSocket.cpp">
+      <Filter>Tools\Connection</Filter>
+    </ClCompile>
+    <ClCompile Include="LibConn.cpp">
+      <Filter>Tools\Connection</Filter>
+    </ClCompile>
+    <ClCompile Include="Helper.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TChatVote.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
